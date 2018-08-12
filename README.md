@@ -14,6 +14,10 @@ Try it - [Github Finder](http://www.rjmcbain.com/github-finder/index.html)
 
 ![Image description](https://i.imgur.com/0716j3c.png)
 
+### Technologies Used
+
+Html  |  Css  |  Javascript
+
 ### Author
 
 [RJ McBain](http://www.rjmcbain.com)
