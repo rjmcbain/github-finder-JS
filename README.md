@@ -5,8 +5,11 @@
 Simple Javascript website that searches Github user profiles and repositories using the Github API.
 
 ## View Project
-Go to [http://www.rjmcbain.com/github-finder/index.html](http://www.rjmcbain.com/github-finder/index.html)
 
-Refresh the page to get a new random photo!
+Run index.html in a browser
+
+or
+
+Try it - [Github Finder](http://www.rjmcbain.com/github-finder/index.html)
 
 ![Image description](https://i.imgur.com/0716j3c.png)
